@@ -1,0 +1,18 @@
+.box input {
+  border-radius: 10px;
+}
+.box p{
+    color: blue;
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+h1{
+    padding: 20px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    
+}
+body{
+    padding-top: 20px;
+}
